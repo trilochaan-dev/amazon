@@ -1,2 +1,0 @@
-# amazon
-recreating amazon
